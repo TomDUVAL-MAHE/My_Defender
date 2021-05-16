@@ -25,3 +25,11 @@ How to play ?
 
 For play you can do the command "make" to compile the program and run it with the command "./my_defender". After that you can run a game by clicking on the button "Play".
 The only thing you do need is your mouse. You have "energy" and with this you can buy towers to defend your base. If you have a doubt you can open the "How to play" screen in the menu by clicking on the button "How to Play".
+
+<img src="assets_read_me/menu.png" width="600" />
+<img src="assets_read_me/1.png" width="600" />
+<img src="assets_read_me/2.png" width="600" />
+<img src="assets_read_me/3.png" width="600" />
+<img src="assets_read_me/4.png" width="600" />
+<img src="assets_read_me/5.png" width="600" />
+<img src="assets_read_me/6.png" width="600" />
