@@ -45,19 +45,19 @@ void give_help_for_bambino(void)
     my_putstr("To do this you have to defend the space base with ");
     my_putstr("turrets that run on energy.\nBut beware the energy is not ");
     my_putstr("unlimited! It's up to you to find it!\n\n");
-    my_putstr("TYPE OF TURRETS :\n\tSpace Canon:\n\t\tAttack step by step,");
+    my_putstr("TYPE OF TURRETS :\n\tLaser turrets:\n\t\tAttack step by step,");
     my_putstr("attack single enemy, have a large range and does medium damage");
-    my_putstr(".\n\tSpace Canon Flamme:\n\t\tYes with a techno alien we ");
+    my_putstr(".\n\tEnergy thrower:\n\t\tYes with a techno alien we ");
     my_putstr("can do flamme in space! This turret make continuous ");
     my_putstr("attack, slow enemy, does little damage and have a little ");
-    my_putstr("range.\n\t");
-    my_putstr("Space Rocket:\n\t\tThis turret make heavy dammage for all");
-    my_putstr("enemys who can be in the explosion. It have a medium range,");
-    my_putstr(" slow attack and make a zone damage.\n\t");
-    my_putstr("Space energyzer:\n\t\tThis turret make no dammage but it");
+    my_putstr("range.\n\tRocket launcher:\n\t\tThis turret make heavy");
+    my_putstr(" dammage for all enemys who can be in the explosion. It have");
+    my_putstr(" a medium range, slow attack and make a zone damage.\n\t");
+    my_putstr("Magnetic Orbiter Universal Light Induction (or M.O.U.L.I.):");
+    my_putstr("\n\t\tThis turret make no dammage but it");
     my_putstr("give you energy from time to time.\n\n");
     my_putstr("You can sell our turrets but it don't give you all of the");
-    my_putstr("money what you give for buy it !\n");
+    my_putstr(" energy spent.\n");
     my_putstr("Your base give you a little bit of energy sometimes\n");
     my_putstr("\nGood Luck and try to don't die !\n\n");
 }

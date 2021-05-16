@@ -69,4 +69,6 @@ void make_settings_disappears(defender_t *defender)
     defender->settings.displayed = false;
     defender->settings.btns[4].hover = false;
     defender->settings.btns[4].pressed = false;
+    sfSprite_setTexture(defender->settings.btns[4].sprite, \
+    defender->settings.btns[4].texture_basic, sfTrue);
 }

@@ -9,7 +9,7 @@
 
 void make_changment_for_game(game_t *game)
 {
-    game->coin = 50;
+    game->coin = 60;
     game->score = 0;
     game->sell_mode = false;
     game->enemies = NULL;
