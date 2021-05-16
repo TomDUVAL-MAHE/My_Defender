@@ -2,6 +2,7 @@
 Make a Tower-defense game with CSFML
 
 This project is a Tower Defense game, made with language C with the graphics library CSFML.
+
 Made with Quentin CAMILLERI
 
 Rule of the project:
